@@ -1,15 +1,8 @@
-# Artem / nuxdie
+# nuxdie
 
 Technical generalist building AI/software prototypes, internal tools, and workflow experiments.
 
-I like turning vague ideas into working demos quickly — especially when AI, automation, local tooling, or weird interfaces are involved.
-
-## What I do
-
-- build fast prototypes to test ideas before they turn into long projects
-- explore practical AI workflows and local-first tooling
-- work across frontend, backend, infra, and product-shaped glue code
-- translate fuzzy concepts into something real enough to use, test, or discard
+I like turning vague ideas into working demos quickly — especially when AI, automation, local tooling, and odd interfaces are involved.
 
 ## Current focus
 
@@ -29,11 +22,11 @@ I like turning vague ideas into working demos quickly — especially when AI, au
 
 ## Also relevant
 
-- [blog](https://github.com/nuxdie/blog) — personal blog and experiments site
+- [baritone-ts](https://github.com/nuxdie/baritone-ts) — pathfinding library for Mineflayer in TypeScript
 - [life-calendar](https://github.com/nuxdie/life-calendar) — interactive life calendar web app
-- [baritone-ts](https://github.com/nuxdie/baritone-ts) — Baritone-quality pathfinding for Mineflayer in TypeScript
+- [blog](https://github.com/nuxdie/blog) — personal blog and experiments site
 
-## Find me elsewhere
+## Elsewhere
 
 - Blog: <https://blog.tsatsin.com/>
 - AI pricing app: <https://ai.tsatsin.com/>
