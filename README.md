@@ -1,4 +1,4 @@
-# nuxdie
+# Artem Tsatsin / nuxdie
 
 Technical generalist building AI/software prototypes, internal tools, and workflow experiments.
 
@@ -31,3 +31,4 @@ I like turning vague ideas into working demos quickly — especially when AI, au
 - Blog: <https://blog.tsatsin.com/>
 - AI pricing app: <https://ai.tsatsin.com/>
 - Podcast: <https://artempodcast.com/>
+- Personal domain: <https://tsatsin.com/>
