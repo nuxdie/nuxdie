@@ -1,30 +1,21 @@
 # Artem Tsatsin / nuxdie
 
-Technical generalist building AI/software prototypes, internal tools, and workflow experiments.
+Technical generalist focused on practical AI/software tools, internal systems, and fast prototypes.
 
-I like turning vague ideas into working demos quickly — especially when AI, automation, local tooling, and odd interfaces are involved.
-
-## Current focus
-
-- AI-assisted workflows and internal tools
-- self-hosted archives and data systems
-- local-first / agent-driven interfaces
-- practical product experiments with tight feedback loops
+I like taking vague or messy ideas and turning them into something concrete: a useful tool, a working demo, a searchable system, or a developer utility.
 
 ## Selected projects
 
 - [ai-pricing](https://github.com/nuxdie/ai-pricing) — compare AI model pricing and performance in one place
 - [tg-archive](https://github.com/nuxdie/tg-archive) — self-hosted Telegram archive with sync agent and searchable web UI
+- [json-like-parse](https://github.com/nuxdie/json-like-parse) — parser for extracting JSON-like text from messy strings
 - [llm-chats-archive](https://github.com/nuxdie/llm-chats-archive) — self-hosted archive for AI chat histories with local search and browsing
 - [slopos](https://github.com/nuxdie/slopos) — prototype for an AI-operated Linux desktop
-- [json-like-parse](https://github.com/nuxdie/json-like-parse) — parser for extracting JSON-like text from messy strings
-- [win-ai-buddy-for-gaming](https://github.com/nuxdie/win-ai-buddy-for-gaming) — Windows desktop app for live Gemini-powered gaming assistance
-
-## Also relevant
-
 - [baritone-ts](https://github.com/nuxdie/baritone-ts) — pathfinding library for Mineflayer in TypeScript
-- [life-calendar](https://github.com/nuxdie/life-calendar) — interactive life calendar web app
-- [blog](https://github.com/nuxdie/blog) — personal blog and experiments site
+
+## What ties them together
+
+My public work spans practical AI tools, searchable self-hosted systems, and reusable developer utilities. The common pattern is the same one I use everywhere: clarify the problem, build the first useful version fast, and reduce uncertainty with something real.
 
 ## Elsewhere
 
